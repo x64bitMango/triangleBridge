@@ -4,6 +4,8 @@
 ![Static Badge](https://img.shields.io/badge/Self%20Hosting%20-%20Available%20but%20please%20just%20let%20it%20die%20-Orange?color=orange)
 ![Static Badge](https://img.shields.io/badge/License%20-%20NONE%2FOPEN%20SOURCE-%20?color=grey)
 
+If you look through `/images/` you'll find some unused images that I ended up scrapping but lowkey forgot to remove from the game.. you can probably tell from those that I had a whole lot more planned than what I actually ended up making
+
 
 > Schizophrenia keybind -> `W`
 
