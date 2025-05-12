@@ -6,6 +6,8 @@
 
 If you look through `/images/` you'll find some unused images that I ended up scrapping but lowkey forgot to remove from the game.. you can probably tell from those that I had a whole lot more planned than what I actually ended up making
 
+There's also unused audio and music that I couldn't get working because of the way I imported it for some reason
+
 
 > Schizophrenia keybind -> `W`
 
