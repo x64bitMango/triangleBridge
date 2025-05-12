@@ -4,7 +4,7 @@
 ![Static Badge](https://img.shields.io/badge/Self%20Hosting%20-%20Available%20but%20please%20just%20let%20it%20die%20-Orange?color=orange)
 ![Static Badge](https://img.shields.io/badge/License%20-%20NONE%2FOPEN%20SOURCE-%20?color=grey)
 
-## I hope making this culmination made u happy (sarcasm)
+## This culminating project is so cooked
 instead of working on the geometry work, which I admittidley should have done, I instead ended up not doing a single thing after like the second assignment for this entire unit.. and now I'm on a sunday night to hurridly fix up a game for the end of year culmination for the unit that was due two days ago.. 
 
 
