@@ -6,7 +6,10 @@
 
 If you look through `/images/` you'll find some unused images that I ended up scrapping but lowkey forgot to remove from the game.. you can probably tell from those that I had a whole lot more planned than what I actually ended up making
 
-There's also unused audio and music that I couldn't get working because of the way I imported it for some reason
+For full-fledged extra audio bits, you need to enable the Autoplay Permission for the website
+
+![image](https://github.com/user-attachments/assets/7c40a5aa-f5d1-4386-8eb7-3b01394800c0)
+
 
 
 > Schizophrenia keybind -> `W`
